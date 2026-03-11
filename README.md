@@ -1,6 +1,6 @@
 # Taller: Concurrencia y Paralelismo en Java
 
-# 👨‍💻 Autores
+# Autores
 
 - **Jaider Andres Ortiz Alvarado**
 - **Juan Sebastian Camacho Reyes**
